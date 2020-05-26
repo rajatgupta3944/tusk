@@ -6,3 +6,4 @@ setup(machines)
 employees
 transport system
 +investment
+company links
